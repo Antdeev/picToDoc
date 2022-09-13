@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="org.eclipse.persistence.asm-2.7.4">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../../Java_tesseract/Doc4/dependencies/org.eclipse.persistence.asm-2.7.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Java_tesseract/Doc4/dependencies/org.eclipse.persistence.core-2.7.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Java_tesseract/Doc4/dependencies/org.eclipse.persistence.moxy-2.7.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

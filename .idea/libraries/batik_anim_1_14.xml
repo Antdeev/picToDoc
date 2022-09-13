@@ -1,0 +1,96 @@
+<component name="libraryTable">
+  <library name="batik-anim-1.14">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../../Java_tesseract/ApachePOI/poi-bin-5.2.2/auxiliary/batik-anim-1.14.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Java_tesseract/ApachePOI/poi-bin-5.2.2/auxiliary/batik-awt-util-1.14.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Java_tesseract/ApachePOI/poi-bin-5.2.2/auxiliary/batik-bridge-1.14.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Java_tesseract/ApachePOI/poi-bin-5.2.2/auxiliary/batik-codec-1.14.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Java_tesseract/ApachePOI/poi-bin-5.2.2/auxiliary/batik-constants-1.14.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Java_tesseract/ApachePOI/poi-bin-5.2.2/auxiliary/batik-css-1.14.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Java_tesseract/ApachePOI/poi-bin-5.2.2/auxiliary/batik-dom-1.14.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Java_tesseract/ApachePOI/poi-bin-5.2.2/auxiliary/batik-ext-1.14.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Java_tesseract/ApachePOI/poi-bin-5.2.2/auxiliary/batik-gvt-1.14.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Java_tesseract/ApachePOI/poi-bin-5.2.2/auxiliary/batik-i18n-1.14.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Java_tesseract/ApachePOI/poi-bin-5.2.2/auxiliary/batik-parser-1.14.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Java_tesseract/ApachePOI/poi-bin-5.2.2/auxiliary/batik-script-1.14.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Java_tesseract/ApachePOI/poi-bin-5.2.2/auxiliary/batik-svg-dom-1.14.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Java_tesseract/ApachePOI/poi-bin-5.2.2/auxiliary/batik-svggen-1.14.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Java_tesseract/ApachePOI/poi-bin-5.2.2/auxiliary/batik-svgrasterizer-1.14.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Java_tesseract/ApachePOI/poi-bin-5.2.2/auxiliary/batik-transcoder-1.14.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Java_tesseract/ApachePOI/poi-bin-5.2.2/auxiliary/batik-util-1.14.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Java_tesseract/ApachePOI/poi-bin-5.2.2/auxiliary/batik-xml-1.14.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Java_tesseract/ApachePOI/poi-bin-5.2.2/auxiliary/bcpkix-jdk15on-1.70.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Java_tesseract/ApachePOI/poi-bin-5.2.2/auxiliary/bcprov-jdk15on-1.70.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Java_tesseract/ApachePOI/poi-bin-5.2.2/auxiliary/bcutil-jdk15on-1.70.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Java_tesseract/ApachePOI/poi-bin-5.2.2/auxiliary/fontbox-2.0.25.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Java_tesseract/ApachePOI/poi-bin-5.2.2/auxiliary/graphics2d-0.35.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Java_tesseract/ApachePOI/poi-bin-5.2.2/auxiliary/pdfbox-2.0.25.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Java_tesseract/ApachePOI/poi-bin-5.2.2/auxiliary/xml-apis-1.4.01.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Java_tesseract/ApachePOI/poi-bin-5.2.2/auxiliary/xml-apis-ext-1.3.04.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Java_tesseract/ApachePOI/poi-bin-5.2.2/auxiliary/xmlgraphics-commons-2.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Java_tesseract/ApachePOI/poi-bin-5.2.2/auxiliary/xmlsec-2.3.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Java_tesseract/ApachePOI/poi-bin-5.2.2/lib/commons-codec-1.15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Java_tesseract/ApachePOI/poi-bin-5.2.2/lib/commons-collections4-4.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Java_tesseract/ApachePOI/poi-bin-5.2.2/lib/commons-io-2.11.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Java_tesseract/ApachePOI/poi-bin-5.2.2/lib/commons-math3-3.6.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Java_tesseract/ApachePOI/poi-bin-5.2.2/lib/log4j-api-2.17.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Java_tesseract/ApachePOI/poi-bin-5.2.2/lib/SparseBitSet-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Java_tesseract/ApachePOI/poi-bin-5.2.2/poi-5.2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Java_tesseract/ApachePOI/poi-bin-5.2.2/poi-examples-5.2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Java_tesseract/ApachePOI/poi-bin-5.2.2/poi-excelant-5.2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Java_tesseract/ApachePOI/poi-bin-5.2.2/poi-ooxml-5.2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Java_tesseract/ApachePOI/poi-bin-5.2.2/poi-ooxml-full-5.2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Java_tesseract/ApachePOI/poi-bin-5.2.2/poi-ooxml-lite-5.2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Java_tesseract/ApachePOI/poi-bin-5.2.2/poi-scratchpad-5.2.2.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../../Java_tesseract/ApachePOI/poi-src-5.2.2-20220312/poi-ooxml-full" />
+      <root url="file://$PROJECT_DIR$/../../../../Java_tesseract/ApachePOI/poi-src-5.2.2-20220312/poi-ooxml-lite" />
+      <root url="file://$PROJECT_DIR$/../../../../Java_tesseract/ApachePOI/poi-src-5.2.2-20220312/poi-ooxml-lite/src" />
+      <root url="file://$PROJECT_DIR$/../../../../Java_tesseract/ApachePOI/poi-src-5.2.2-20220312/poi-ooxml-lite/src/main" />
+      <root url="file://$PROJECT_DIR$/../../../../Java_tesseract/ApachePOI/poi-src-5.2.2-20220312/poi-ooxml-lite/src/main/java9" />
+      <root url="file://$PROJECT_DIR$/../../../../Java_tesseract/ApachePOI/poi-src-5.2.2-20220312" />
+      <root url="file://$PROJECT_DIR$/../../../../Java_tesseract/ApachePOI/poi-src-5.2.2-20220312/poi" />
+      <root url="file://$PROJECT_DIR$/../../../../Java_tesseract/ApachePOI/poi-src-5.2.2-20220312/poi-examples" />
+      <root url="file://$PROJECT_DIR$/../../../../Java_tesseract/ApachePOI/poi-src-5.2.2-20220312/poi-excelant" />
+      <root url="file://$PROJECT_DIR$/../../../../Java_tesseract/ApachePOI/poi-src-5.2.2-20220312/poi-integration" />
+      <root url="file://$PROJECT_DIR$/../../../../Java_tesseract/ApachePOI/poi-src-5.2.2-20220312/poi-ooxml" />
+      <root url="file://$PROJECT_DIR$/../../../../Java_tesseract/ApachePOI/poi-bin-5.2.2/lib" />
+      <root url="file://$PROJECT_DIR$/../../../../Java_tesseract/ApachePOI/poi-bin-5.2.2/ooxml-lib" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../../../../Java_tesseract/ApachePOI/poi-bin-5.2.2/poi-javadoc-5.2.2.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../../../../Java_tesseract/ApachePOI/poi-src-5.2.2-20220312/osgi/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../../../../Java_tesseract/ApachePOI/poi-src-5.2.2-20220312/osgi/src/test/java" />
+      <root url="file://$PROJECT_DIR$/../../../../Java_tesseract/ApachePOI/poi-src-5.2.2-20220312/poi-examples/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../../../../Java_tesseract/ApachePOI/poi-src-5.2.2-20220312/poi-examples/src/main/ruby/java" />
+      <root url="file://$PROJECT_DIR$/../../../../Java_tesseract/ApachePOI/poi-src-5.2.2-20220312/poi-examples/src/test/java" />
+      <root url="file://$PROJECT_DIR$/../../../../Java_tesseract/ApachePOI/poi-src-5.2.2-20220312/poi-excelant/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../../../../Java_tesseract/ApachePOI/poi-src-5.2.2-20220312/poi-excelant/src/poi-ant-contrib/java" />
+      <root url="file://$PROJECT_DIR$/../../../../Java_tesseract/ApachePOI/poi-src-5.2.2-20220312/poi-excelant/src/test/java" />
+      <root url="file://$PROJECT_DIR$/../../../../Java_tesseract/ApachePOI/poi-src-5.2.2-20220312/poi-integration/src/test/java" />
+      <root url="file://$PROJECT_DIR$/../../../../Java_tesseract/ApachePOI/poi-src-5.2.2-20220312/poi-ooxml-lite-agent/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../../../../Java_tesseract/ApachePOI/poi-src-5.2.2-20220312/poi-ooxml/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../../../../Java_tesseract/ApachePOI/poi-src-5.2.2-20220312/poi-ooxml/src/test/java" />
+      <root url="file://$PROJECT_DIR$/../../../../Java_tesseract/ApachePOI/poi-src-5.2.2-20220312/poi-scratchpad/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../../../../Java_tesseract/ApachePOI/poi-src-5.2.2-20220312/poi-scratchpad/src/test/java" />
+      <root url="file://$PROJECT_DIR$/../../../../Java_tesseract/ApachePOI/poi-src-5.2.2-20220312/poi/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../../../../Java_tesseract/ApachePOI/poi-src-5.2.2-20220312/poi/src/test/java" />
+      <root url="file://$PROJECT_DIR$/../../../../Java_tesseract/ApachePOI/poi-src-5.2.2-20220312/osgi/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../../../../Java_tesseract/ApachePOI/poi-src-5.2.2-20220312/osgi/src/test/java" />
+      <root url="file://$PROJECT_DIR$/../../../../Java_tesseract/ApachePOI/poi-src-5.2.2-20220312/poi/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../../../../Java_tesseract/ApachePOI/poi-src-5.2.2-20220312/poi/src/test/java" />
+      <root url="file://$PROJECT_DIR$/../../../../Java_tesseract/ApachePOI/poi-src-5.2.2-20220312/poi-examples/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../../../../Java_tesseract/ApachePOI/poi-src-5.2.2-20220312/poi-examples/src/main/ruby/java" />
+      <root url="file://$PROJECT_DIR$/../../../../Java_tesseract/ApachePOI/poi-src-5.2.2-20220312/poi-examples/src/test/java" />
+      <root url="file://$PROJECT_DIR$/../../../../Java_tesseract/ApachePOI/poi-src-5.2.2-20220312/poi-excelant/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../../../../Java_tesseract/ApachePOI/poi-src-5.2.2-20220312/poi-excelant/src/poi-ant-contrib/java" />
+      <root url="file://$PROJECT_DIR$/../../../../Java_tesseract/ApachePOI/poi-src-5.2.2-20220312/poi-excelant/src/test/java" />
+      <root url="file://$PROJECT_DIR$/../../../../Java_tesseract/ApachePOI/poi-src-5.2.2-20220312/poi-integration/src/test/java" />
+      <root url="file://$PROJECT_DIR$/../../../../Java_tesseract/ApachePOI/poi-src-5.2.2-20220312/poi-ooxml/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../../../../Java_tesseract/ApachePOI/poi-src-5.2.2-20220312/poi-ooxml/src/test/java" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/../../../../Java_tesseract/ApachePOI/poi-bin-5.2.2/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../../../Java_tesseract/ApachePOI/poi-bin-5.2.2/ooxml-lib" recursive="false" />
+  </library>
+</component>

@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Tess4J">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../../../Java_tesseract/Tess4J" />
+    </CLASSES>
+    <JAVADOC />
+    <NATIVE>
+      <root url="file://$PROJECT_DIR$/../../../../Java_tesseract/Tess4J" />
+    </NATIVE>
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../../../../Java_tesseract/Tess4J/src" />
+      <root url="file://$PROJECT_DIR$/../../../../Java_tesseract/Tess4J/test" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/../../../../Java_tesseract/Tess4J" recursive="false" />
+  </library>
+</component>

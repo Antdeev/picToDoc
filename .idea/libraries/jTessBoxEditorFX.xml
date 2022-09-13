@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="jTessBoxEditorFX">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../../Java_tesseract/Tess4J/jTessBoxEditorFX.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

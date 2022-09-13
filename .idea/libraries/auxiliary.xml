@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="auxiliary">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../../../Java_tesseract/ApachePOI/poi-bin-5.2.2/auxiliary" />
+      <root url="file://$PROJECT_DIR$/../../../../Java_tesseract/ApachePOI/poi-bin-5.2.2/lib" />
+      <root url="file://$PROJECT_DIR$/../../../../Java_tesseract/ApachePOI/poi-bin-5.2.2/ooxml-lib" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/../../../../Java_tesseract/ApachePOI/poi-bin-5.2.2/auxiliary" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../../../Java_tesseract/ApachePOI/poi-bin-5.2.2/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../../../Java_tesseract/ApachePOI/poi-bin-5.2.2/ooxml-lib" recursive="false" />
+  </library>
+</component>

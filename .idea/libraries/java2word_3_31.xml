@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="java2word-3.31">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../../Java_tesseract/java2word-3.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Java_tesseract/tesseract-5.0.1-1.5.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Java_tesseract/selenium-java-4.4.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Java_tesseract/leptonica-1.82.0-1.5.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Java_tesseract/junit-4.13.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Java_tesseract/javacpp-1.5.7.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
